@@ -56,7 +56,7 @@ app.geometry("600x500")
 app.configure(bg="#f5f5f5")
 
 # Title Label
-title_label = tk.Label(app, text="Subnet Calculator", font=("Arial", 20, "bold"), bg="#f5f5f5", fg="#333")
+title_label = tk.Label(app, text="Network Subnet Calculator", font=("Arial", 20, "bold"), bg="#f5f5f5", fg="#333")
 title_label.pack(pady=20)
 
 # IP Address Entry
