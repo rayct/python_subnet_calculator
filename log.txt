@@ -1,0 +1,40 @@
+Timestamp: 2024-09-23 15:20:51
+IP Address: 18.175.160.68
+Subnet Prefix: /28
+Network Address: 18.175.160.64
+Broadcast Address: 18.175.160.79
+First Usable IP: 18.175.160.65
+Last Usable IP: 18.175.160.78
+Total Usable Hosts: 14
+Next Network Address: 18.175.160.80
+========================================
+Timestamp: 2024-09-23 15:21:10
+IP Address: 18.175.160.60
+Subnet Prefix: /26
+Network Address: 18.175.160.0
+Broadcast Address: 18.175.160.63
+First Usable IP: 18.175.160.1
+Last Usable IP: 18.175.160.62
+Total Usable Hosts: 62
+Next Network Address: 18.175.160.64
+========================================
+Timestamp: 23-09-2024 15:23:14
+IP Address: 18.175.168.52
+Subnet Prefix: /29
+Network Address: 18.175.168.48
+Broadcast Address: 18.175.168.55
+First Usable IP: 18.175.168.49
+Last Usable IP: 18.175.168.54
+Total Usable Hosts: 6
+Next Network Address: 18.175.168.56
+========================================
+Timestamp: 23-09-2024 15:24:43
+IP Address: 192.168.2.34
+Subnet Prefix: /27
+Network Address: 192.168.2.32
+Broadcast Address: 192.168.2.63
+First Usable IP: 192.168.2.33
+Last Usable IP: 192.168.2.62
+Total Usable Hosts: 30
+Next Network Address: 192.168.2.64
+========================================
