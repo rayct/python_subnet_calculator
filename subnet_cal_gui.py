@@ -72,7 +72,7 @@ prefix_entry = tk.Entry(app, font=("Arial", 12), width=25, bd=2, relief="solid")
 prefix_entry.pack(pady=5)
 
 # Calculate Button
-calculate_button = tk.Button(app, text="Calculate", font=("Arial", 12, "bold"), bg="#007BFF", fg="white", command=calculate_subnet)
+calculate_button = tk.Button(app, text="Calculate", font=("Arial", 12, "bold"), bg="#ff8000", fg="white", command=calculate_subnet)
 calculate_button.pack(pady=20)
 
 # Result Text Display
