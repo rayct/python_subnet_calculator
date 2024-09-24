@@ -38,3 +38,13 @@ Last Usable IP: 192.168.2.62
 Total Usable Hosts: 30
 Next Network Address: 192.168.2.64
 ========================================
+Timestamp: 23-09-2024 19:56:54
+IP Address: 192.168.3.204
+Subnet Prefix: /17
+Network Address: 192.168.0.0
+Broadcast Address: 192.168.127.255
+First Usable IP: 192.168.0.1
+Last Usable IP: 192.168.127.254
+Total Usable Hosts: 32766
+Next Network Address: 192.168.128.0
+========================================
