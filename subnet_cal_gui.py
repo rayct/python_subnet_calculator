@@ -81,7 +81,7 @@ result_label = tk.Label(app, textvariable=result_text, font=("Arial", 12), bg="#
 result_label.pack(pady=10)
 
 # Version and Author Info at Bottom Right
-version_author_label = tk.Label(app, text="Version: 1.0.0 | Author: rayturner.dev", font=("Arial", 10), bg="#f5f5f5", fg="#333", anchor="se")
+version_author_label = tk.Label(app, text="Version: 0.0.1 | Author: Raymond C. Turner", font=("Arial", 10), bg="#f5f5f5", fg="#333", anchor="se")
 version_author_label.pack(side="bottom", anchor="se", padx=10, pady=10)
 
 # Start the main loop

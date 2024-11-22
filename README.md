@@ -1,4 +1,4 @@
-# Subnet Calculator (GUI Version 1.0.0)
+# Subnet Calculator (GUI Version 0.1.0)
 
 ## Overview
 
@@ -9,7 +9,7 @@ This is a Python-based **Subnet Calculator** with a modern Tkinter-based GUI tha
 - Total Number of Usable Hosts
 - Next Network Address
 
-## Features - v1.0.0
+## Features - v0.1.0
 
 - **Modern UI**: Clean and simple GUI built with Tkinter.
 - **Error Handling**: Displays helpful error messages for invalid inputs.
@@ -31,4 +31,4 @@ This is a Python-based **Subnet Calculator** with a modern Tkinter-based GUI tha
  
  **Documentation By:** Raymond C. Turner
  
- **Revision Date:** September 25th, 2024
+ **Revision Date:** November 22nd, 2024
